@@ -59,7 +59,7 @@ ssh username@remote_host
 1. Скачайте или склонируйте репозиторий с этим скриптом на локальную машину:
   ```bash
 git clone https://github.com/GordonBreazz/site-backaper.git
-cd backup_script
+cd site_backuper
 
 ```
 2. Откройте файл скрипта (backup_script.sh) и настройте следующие параметры в начале скрипта:
